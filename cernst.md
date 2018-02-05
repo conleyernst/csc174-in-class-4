@@ -6,6 +6,32 @@ In Class Assignment 4
 
 2/5/2018
 
+## Berkley Marina
+
+The Berkeley Marina is the westernmost portion of the city of Berkeley, California, located west of the Eastshore Freeway (Interstate 80 and 580) at the foot of University Avenue on San Francisco Bay. Narrowly speaking, "Berkeley Marina" refers only to the city marina, but in common usage, it applies more generally to the surrounding area.
+
+There are several restaurants, a hotel and a yacht club in the Berkeley Marina. There are also several walking and bicycle paths. The area is accessible from the rest of Berkeley by foot or bike over the Berkeley I-80 Bridge at the foot of Addison Street (one block south of University Avenue), and is traversed near Interstate 80 by a segment of the San Francisco Bay Trail. In addition, it is the western terminus of AC Transit Route 51B (University Avenue-Rockridge BART) on select trips only.
+
+The easternmost portion of the Marina, running parallel to I-80/580, is now a part of the Eastshore State Park.
+
+### History
+
+The Berkeley Marina was originally part of the open waters of San Francisco Bay. The original shoreline ran a few yards west of the Southern Pacific (now Union Pacific) tracks on 3rd Street. The area was gradually filled in over the years.
+
+In 1909 the City built a municipal wharf at the foot of University Avenue which was used primarily for freight. Starting in 1926 the Golden Gate Ferry Company began construction of the Berkeley Pier. It was built out from the foot of University Avenue about 3.5 miles (5.6 km) into the Bay (measured from the original shoreline). On June 16, 1927 auto ferry service began.[1] between the Berkeley Pier and the Hyde Street Pier in San Francisco, a pier shared with the Sausalito ferry.[2] During this period U.S. Route 40 ran from San Pablo Avenue down University Avenue to the Berkeley Pier. The ferry service lasted until about 1937, after the 1936 opening of the San Francisco–Oakland Bay Bridge. Thereafter it became a fishing pier. US 40 was shifted to the new Eastshore Highway and the Bay Bridge. Storms damaged the end of the pier over the years and it was closed. After World War II ended, it was repaired and re-opened in 1946 for fishing.[3] In the 1970s, the city again repaired and upgraded the least damaged length of the Berkeley Pier, and it is still in use today for fishing and viewing.
+
+Since about the late 1920s the city municipal dump was located here, and the accumulated garbage and construction debris accounts for most of the dry land of the Berkeley Marina. In the early 1990s much of the former dump was landscaped and converted into a park, originally named "North Waterfront Park". The park was renamed Cesar Chavez Park in 1996 to commemorate the late California labor leader.[4]
+
+The actual Berkeley Marina, used by many people who sail on the Bay, was constructed as the Berkeley Yacht Harbor in the late 1930s by the Works Progress Administration in conjunction with its nearby work developing Aquatic Park.
+
+During World War II, the Berkeley Yacht Harbor was used by the United States Navy to construct tug boats.
+
+#### Berkeley heliport
+
+From October 1961 until April 1974 a heliport was operated by San Francisco and Oakland Helicopter Airlines (known as SFO Helicopter Airlines) on the north side of University Avenue west of I-80 near the marina. This helicopter airline transported passengers to the San Francisco (SFO) and Oakland (OAK) international airports.[6] and also at one point to downtown San Francisco.[7] SFO Helicopter operated jet turbine powered Sikorsky S-61 and Sikorsky S-62 helicopters into the heliport which is no longer in existence.
+
+## Source: https://en.wikipedia.org/wiki/Berkeley_Marina
+
 ## Steve Wozniak
 
 Stephen Gary Wozniak, also nicknamed "The Woz", is an American inventor, electronics engineer, programmer, philanthropist, and technology entrepreneur who co-founded Apple Inc. He is known as a pioneer of the personal computer revolution of the 1970s and 1980s, along with Apple co-founder Steve Jobs.
