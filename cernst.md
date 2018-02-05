@@ -8,7 +8,7 @@ In Class Assignment 4
 
 ## Berkley Marina
 
-![the marina](csc174-in-class-4/media/marina.jpg "Berkley Marina")
+![The Marina](/media/marina.jpg)
 
 The Berkeley Marina is the westernmost portion of the city of Berkeley, California, located west of the Eastshore Freeway (Interstate 80 and 580) at the foot of University Avenue on San Francisco Bay. Narrowly speaking, "Berkeley Marina" refers only to the city marina, but in common usage, it applies more generally to the surrounding area.
 
