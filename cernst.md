@@ -1,10 +1,12 @@
 # Berkeley, California
 
 Conley Ernst
-
 In Class Assignment 4
-
 2/5/2018
+
+Berkeley is a city on the east shore of San Francisco Bay in northern Alameda County, California. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and the unincorporated community of Kensington to the north. Its eastern border with Contra Costa County generally follows the ridge of the Berkeley Hills. The 2010 census recorded a population of 112,580. [Source](https://en.wikipedia.org/wiki/Berkeley,_California#Landmarks_and_historic_districts)
+
+Berkeley is home to beautiful landmarks, in addition to being the home of innovators in both technology and music.
 
 ## Berkley Marina
 
@@ -32,9 +34,11 @@ During World War II, the Berkeley Yacht Harbor was used by the United States Nav
 
 From October 1961 until April 1974 a heliport was operated by San Francisco and Oakland Helicopter Airlines (known as SFO Helicopter Airlines) on the north side of University Avenue west of I-80 near the marina. This helicopter airline transported passengers to the San Francisco (SFO) and Oakland (OAK) international airports.[6] and also at one point to downtown San Francisco.[7] SFO Helicopter operated jet turbine powered Sikorsky S-61 and Sikorsky S-62 helicopters into the heliport which is no longer in existence.
 
-## Source: https://en.wikipedia.org/wiki/Berkeley_Marina
+Source: https://en.wikipedia.org/wiki/Berkeley_Marina
 
 ## Steve Wozniak
+
+![Steve Wozniak](/media/steve.jpg)
 
 Stephen Gary Wozniak, also nicknamed "The Woz", is an American inventor, electronics engineer, programmer, philanthropist, and technology entrepreneur who co-founded Apple Inc. He is known as a pioneer of the personal computer revolution of the 1970s and 1980s, along with Apple co-founder Steve Jobs.
 
@@ -77,3 +81,36 @@ In 1976, Wozniak developed the computer that eventually made him famous. He alon
 - Michigan State University
 
 Source: https://en.wikipedia.org/wiki/Steve_Wozniak#Honors_and_awards
+
+## Green Day
+
+![The Band](/media/green.jpg)
+
+Green Day is an American punk rock band formed in 1986 by lead vocalist and guitarist Billie Joe Armstrong and bassist Mike Dirnt. For much of the band's career, they have been a trio with drummer Tré Cool, who replaced John Kiffmeyer in 1990 prior to the recording of the band's second studio album, Kerplunk (1991). Guitarist Jason White, who has been a touring member since 1999, was a member from 2012 to 2016.
+
+Green Day was originally part of the punk scene at the DIY 924 Gilman Street club in Berkeley, California. The band's early releases were with the independent record label Lookout! Records. In 1994, their major label debut Dookie, released through Reprise Records, became a breakout success and eventually shipped over 10 million copies in the U.S.[3] Green Day is credited alongside fellow California punk bands including Sublime, Bad Religion, the Offspring, and Rancid with popularizing mainstream interest in punk rock in the United States.
+
+Though Insomniac (1995), Nimrod (1997) and Warning (2000), did not match the success of Dookie, Insomniac and Nimrod reached double platinum and Warning achieved gold status. Green Day's seventh album, American Idiot (2004), a rock opera, found popularity with a younger generation, selling six million copies in the U.S.[8] 21st Century Breakdown, released in 2009, and achieved the band's best chart performance. It was followed by a trilogy of albums, ¡Uno!, ¡Dos! and ¡Tré!, released in September, November and December 2012 respectively. Green Day's twelfth studio album, Revolution Radio, was released on October 7, 2016 and became their third to debut at number one on the Billboard 200.
+
+Green Day has sold more than 85 million records worldwide.The group has won five Grammy Awards: Best Alternative Album for Dookie, Best Rock Album for American Idiot, Record of the Year for "Boulevard of Broken Dreams", Best Rock Album for the second time for 21st Century Breakdown and Best Musical Show Album for American Idiot: The Original Broadway Cast Recording. In 2010, a stage adaptation of American Idiot debuted on Broadway. The musical was nominated for three Tony Awards: Best Musical, Best Scenic Design and Best Lighting Design, losing only the first. In the same year, VH1 ranked Green Day 91st in its list of the "100 Greatest Artists of All Time". The band was inducted into the Rock and Roll Hall of Fame in April 2015, their first year of eligibility.
+
+### Billie Joe Armstrong 
+
+Billie Joe Armstrong (born February 17, 1972) is an American musician, singer, songwriter and actor who is best known as the lead vocalist, primary songwriter, and guitarist of the punk rock band Green Day, which he co-founded with Mike Dirnt. He is also a guitarist and vocalist for the punk rock band Pinhead Gunpowder and provides lead vocals for Green Day's side projects Foxboro Hot Tubs and The Network.
+
+Raised in Rodeo, California, Armstrong developed an interest in music at a young age, and recorded his first song at the age of five. He met Mike Dirnt while attending elementary school, and the two instantly bonded over their mutual interest in music, forming the band Sweet Children when the two were 15 years old. The band changed its name to Green Day, and would later achieve massive commercial success. Armstrong has also pursued musical projects outside of Green Day's work, including numerous collaborations with other musicians.
+
+In 1997, to coincide with the release of Nimrod, Armstrong founded Adeline Records in Oakland to help support other bands releasing music and signed bands such as The Frustrators, AFI and Dillinger Four. The record company has since come under the management of Pat Magnarella.
+
+### Mike Dirnt
+
+Michael Ryan Pritchard (born May 4, 1972), known professionally as Mike Dirnt, is an American musician, songwriter and composer. He is best known as the co-founder, bassist, backing vocalist and occasional lead vocalist of American punk rock band Green Day. He has also played in several other bands, including The Frustrators. His stage name was originally a nickname that his friends from grade school had given him, as he would constantly play "air bass" and make a "dirnt, dirnt, dirnt" noise while pretending to pluck the strings.
+
+### Tré Cool
+
+Frank Edwin Wright III (born December 9, 1972), known professionally as Tré Cool, is a German-born American musician, drummer and composer, best known as the drummer for the punk rock band Green Day. He replaced the band's former drummer, John Kiffmeyer, in 1990 as Kiffmeyer felt that he should spend more time towards college. Cool has also played in The Lookouts, Samiam and the Green Day side-projects The Network and the Foxboro Hot Tubs.
+
+Source: https://en.wikipedia.org/wiki/Green_Day
+https://en.wikipedia.org/wiki/Billie_Joe_Armstrong
+https://en.wikipedia.org/wiki/Mike_Dirnt
+https://en.wikipedia.org/wiki/Tr%C3%A9_Cool
